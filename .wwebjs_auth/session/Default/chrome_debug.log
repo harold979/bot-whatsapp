@@ -1,0 +1,2 @@
+[0812/232004.841:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~bootstrap_qr.01552bec6677c60ebdd8.js (7)
+[0812/232005.175:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
